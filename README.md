@@ -2,7 +2,7 @@
   <h1>FitnessApp</h1>
   <p>Welcome to the FitnessApp repository! This repository serves as a gateway to our comprehensive Android Fitness App designed to offer a complete workout and health tracking experience.</p>
 
-  <img src="https://www.example.com/path/to/your/image.png" alt="FitnessApp Screenshot" width="600">
+  <img src="https://raw.githubusercontent.com/TheOctalOps/AndroidFitnessApp/main/fitnessapp-thumb.png" alt="FitnessApp Screenshot" width="600">
   
   <h2>App Overview</h2>
   <p>Explore the ultimate Android Native Fitness App built in JAVA, which integrates AdMob ads and Firebase push notifications, along with in-app purchases. This app provides a comprehensive example for developers.</p>
